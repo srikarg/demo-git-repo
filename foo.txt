@@ -1,1 +1,3 @@
-Added foo.txt
+This will make a merge conflict.
+
+More additions here!
