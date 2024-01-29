@@ -1,1 +1,1 @@
-Added foo.txt
+Updated foo.txt's first line to add a new feature.
